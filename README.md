@@ -8,6 +8,7 @@ Desenvolver uma ferramenta simples de cadastro de tickets para o setor de atendi
 Requirements
 ------------
 ```bash
+Criar o Banco de dados com o nome: db_ticket
 Run Compser Update
 Edit the .env file with relevant database credentials.
 run php artisan make:model Models/clientes -m
