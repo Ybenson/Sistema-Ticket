@@ -1,4 +1,4 @@
-Teste PHP para Desenvolvedor para Ybenson Augustave 
+Teste PHP para Desenvolvedor Ybenson Augustave 
 =====================
 
 Objetivo:
@@ -23,7 +23,6 @@ To play
 3. `localhost/Sistema-Ticket/public/tickets`
 4. php artisan serve
 
-Zero Gravity
 ------------
 ![Alt text](/resources/images/gravity-zero.png?raw=true "angry-birds")
 * To activate the "zero gravity mode" press key s.
