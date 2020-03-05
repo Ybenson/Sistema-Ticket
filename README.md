@@ -26,9 +26,6 @@ To play
 
 80%
 ------------
-![Alt text](/resources/images/gravity-zero.png?raw=true "angry-birds")
-* To activate the "zero gravity mode" press key s.
-* To back to normal mode press key n.
 
 Activate &  Deactivate the wall
 -------------------------------
