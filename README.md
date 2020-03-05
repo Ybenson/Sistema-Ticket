@@ -23,6 +23,7 @@ To play
 3. `localhost/Sistema-Ticket/public/tickets`
 4. php artisan serve
 
+80%
 ------------
 ![Alt text](/resources/images/gravity-zero.png?raw=true "angry-birds")
 * To activate the "zero gravity mode" press key s.
