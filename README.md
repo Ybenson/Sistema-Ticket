@@ -9,12 +9,12 @@ Requirements
 ------------
 ```bash
 Criar o Banco de dados com o nome: db_ticket
-Run Compser Update
+Run Composer Update
+Run php artisan artisan key:generate
 Edit the .env file with relevant database credentials.
 run php artisan make:model Models/clientes -m
 run php artisan make:model Models/clientes -m
 run php artisan migrate ou php artisan migrate:fresh
-run php artisan artisan key:generate
 ```
 
 To play
@@ -22,7 +22,6 @@ To play
 1. Clone the project https://github.com/Ybenson/Sistema-Ticket.git
 2. cd Sistema-Ticket
 3. `localhost/Sistema-Ticket/public/tickets`
-4. php artisan serve
 
 80%
 ------------
