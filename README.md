@@ -12,8 +12,8 @@ Criar o Banco de dados com o nome: db_ticket
 Run Composer Update
 Run php artisan artisan key:generate
 Edit the .env file with relevant database credentials.
-run php artisan make:model Models/clientes -m
-run php artisan make:model Models/clientes -m
+run php artisan make:model Models/clientes
+run php artisan make:model Models/clientes
 run php artisan migrate ou php artisan migrate:fresh
 ```
 
